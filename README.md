@@ -11,6 +11,13 @@ to keep clutter my workspace with constant updates to the Concepts folder. So wh
 
 ## Changelog
 
+12/18/2023
+- Rearranged the File System
+- Added Basic & Advance Folders.
+- Working on Hello World 1.4
+- Added User Input Folder
+
+
 7/3/2023
 - Added  Unit 1 Hello World (Basics) [Section 1.1 - 1.3]
 - Added a new release for said Sections.
